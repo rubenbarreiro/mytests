@@ -1,0 +1,15 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 0"
+  },
+  "author": "VOV Solutions <ceo@vovsolutions.com> (http://www.vovsolutions.com/)",
+  "license": "ISC"
+}
